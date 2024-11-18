@@ -71,9 +71,9 @@ Place your files in the following structure:
     ```bash
     python main.py
     ```
-3. Interact with the system by typing questions. For example:
+3. Interact with the system by typing questions related on the documents in the . For example:
     ```
-    Your question: What is the purpose of this Python script?
+    Your question: What is my policy number with state farm?
     ```
 
 ### **Example Workflow**
